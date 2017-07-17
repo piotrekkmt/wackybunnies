@@ -4,10 +4,6 @@ layout: default
 
 [Google Play Store](https://play.google.com/store/apps/details?id=net.kmt.wackybunnies.android).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # [](#header-1)Description
 
 It's here! The game we were all waiting for since the start of this semester. 
